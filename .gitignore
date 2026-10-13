@@ -1,0 +1,20 @@
+
+# ROS 2 generated files
+build/
+install/
+log/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Recorded data and large point clouds
+*.bag
+*.db3
+*.mcap
+*.pcd
+*.ply
+
+# Editors
+.vscode/
+.idea/
